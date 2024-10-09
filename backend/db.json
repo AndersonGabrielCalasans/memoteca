@@ -1,0 +1,40 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você veio",
+      "autoria": "Gabriel Calasans",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Aprendendo Angular",
+      "autoria": "Gabriel Calasans",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Ainda prefiro Java kkkk",
+      "autoria": "Gabriel Calasans",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "3c92",
+      "conteudo": "Você ainda não venceu, mas o quanto você já se f**!",
+      "autoria": "Dev junior",
+      "modelo": "modelo1"
+    },
+    {
+      "id": "948d",
+      "conteudo": "Pra quem tem fé, a vida nunca tem fim!",
+      "autoria": "O Rappa",
+      "modelo": "modelo3"
+    },
+    {
+      "id": "d119",
+      "conteudo": "Só preciso de dinheiro pra comprar um mé!",
+      "autoria": "Grelo",
+      "modelo": "modelo2"
+    }
+  ]
+}
